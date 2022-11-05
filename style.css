@@ -85,15 +85,14 @@ font-weight:500;
 .card-btn {
     color: #1f3d47;
     background: #8fabba;
-    padding: 10px 20px;
-    width: 140px;
+    padding: 10px 8px;
+    width: 180px;
     border-radius: 5px;
     text-transform: capitalize;
     border: none;
     outline: none;
     font-weight: 500;
-    cursor:pointer;
-}
+  }
 
 #music{
     color: #1f3d47;
