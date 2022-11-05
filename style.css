@@ -82,9 +82,22 @@ font-weight:500;
     font-weight: 420;
 }
 
-.card-btn{
+.card-btn {
     color: #1f3d47;
     background: #8fabba;
+    padding: 10px 20px;
+    width: 120px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+#music{
+    color: #1f3d47;
+    background: #1f3d473f;
     padding: 10px 20px;
     width: 120px;
     border-radius: 5px;
